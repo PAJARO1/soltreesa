@@ -138,6 +138,10 @@ a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
+#about .fa-mobile{
+  color: black;
+  font-size: 30px;
+}
 
 .brand-heading{
   color:white;
@@ -161,9 +165,10 @@ h4{
 #about h1{
   color: black;
 }
-#about .fa-mobile{
-  color: black;
+.intro .fa{
+  color: white;
   font-size: 30px;
+  font-weight: bold;
 }
 /*@media (min-width: 768px) {
   .intro {
