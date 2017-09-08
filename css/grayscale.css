@@ -102,7 +102,7 @@ a:focus {
 .navbar-custom .nav li.active a:hover {
   color: white;
 }
-@media (min-width: 768px) {
+@media (min-width: 768px){
   .navbar-custom {
   /*  padding: 20px 0;*/
       border-bottom: 15px solid #633328;
@@ -122,10 +122,11 @@ a:focus {
   .intro{
       background: url(../img/SOLT1.jpg) bottom right   ;
   }
-  .intro .fa{
+  .intro i{
     color: white;
     font-size: 30px;
     font-weight: bold;
+
   }
 }
 .intro{
