@@ -123,7 +123,9 @@ a:focus {
       background: url(../img/SOLT1.jpg) bottom right   ;
       color: white;
   }
-
+.intro fa-mobile{
+  color: white;
+}
 }
 .intro{
   display: table;
