@@ -121,13 +121,9 @@ a:focus {
   }
   .intro{
       background: url(../img/SOLT1.jpg) bottom right   ;
+      color: white;
   }
-  .intro i{
-    color: white;
-    font-size: 30px;
-    font-weight: bold;
 
-  }
 }
 .intro{
   display: table;
