@@ -122,6 +122,11 @@ a:focus {
   .intro{
       background: url(../img/SOLT1.jpg) bottom right   ;
   }
+  .intro .fa{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  }
 }
 .intro{
   display: table;
@@ -170,23 +175,7 @@ h4{
   font-size: 30px;
   font-weight: bold;
 }
-/*@media (min-width: 768px) {
-  .intro {
-    display: table;
-    width: 100%;
-    height: auto;
-    padding: 100px 0;
-    text-align: center;
-    color: black;
-    background: url(../img/507.jpg) center;
-    background-color: white;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-  }
-}
-*/
+
 .intro .intro-body {
   display: table-cell;
   vertical-align: middle;
@@ -248,7 +237,7 @@ border-radius: 30px;
   margin: auto;
 
 }
-/*LOCATION/INVESTMENTS section*/
+/*RESIDENTIAL/COMMERCIAL*/
 .service-box{
   border-left: 1px  solid white;
   border-radius: 20px;
@@ -347,15 +336,6 @@ button{
   color: white;
   background-color: white;
   font-family: 'Droid Sans', sans-serif;
-
-
- /*background: url(../img/square.jpg) no-repeat center center scroll;
-  background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-*/
 }
 .title{
   margin-top: 20px;
